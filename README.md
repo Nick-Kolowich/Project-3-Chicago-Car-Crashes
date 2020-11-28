@@ -14,7 +14,8 @@ To build a model that will predict the causality of an accident based on factors
 
 ### Map of Accidents in Chicago by Cause
 
-### Data Description
+<details>
+    <summary> ### Data Description </summary>
 Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). The data contains information on 45,3326 accidents occuring inside the Chicago city limits during 2015. All crashes are recorded as per the format specified in the Traffic Crash Report, SR1050, of the Illinois Department of Transportation.
 
 ### Which features correlate most highly with price? 
