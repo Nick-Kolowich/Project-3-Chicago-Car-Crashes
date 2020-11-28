@@ -31,3 +31,12 @@ Crash data shows information about each traffic crash on city streets within the
 ![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/hourofcrashdistpresentation.png) 
 
 </details>
+
+<h3> Question 2: Does inclement weather disproportionately cause fatal accidents? </h3>
+<details>
+    
+   <summary> Weather conditions have little bearing on accident fatality. </summary>
+    
+![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/weatherfatalvsnoinjury.png) 
+
+</details>
