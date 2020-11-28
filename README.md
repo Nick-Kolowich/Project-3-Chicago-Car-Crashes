@@ -2,12 +2,10 @@
 
 ## Outline
 [Purpose](README.md#Purpose)
-Purpose
-City of Chicago Map
-Description of Data
-Main Questions
-Summary Conclusions and Insights
-Future Work
+[Map of Accidents](README.md#Map of Accidents in Chicago by Cause)
+[Data Description](README.md#Data Description)
+[Questions](README.md#Questions)
+[Summary](README.md#Summary)
 
 ## Purpose
 To build a model that will predict the causality of an accident based on factors such as weather, speed limit, and lighting conditions.
@@ -73,3 +71,4 @@ Crash data shows information about each traffic crash on city streets within the
 
 </details>
 
+## Summary
