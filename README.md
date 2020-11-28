@@ -24,7 +24,8 @@ Crash data shows information about each traffic crash on city streets within the
 ### Questions
 <details>
     <summary> Question 1: What time of day do crashes occur? </summary>
-    ### Spikes in accidents are seen primarily during commuting hours. 
+    Spikes in accidents are seen primarily during commuting hours. 
+    
     ![png](https://raw.githubusercontent.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/main/Images/crashhourdist.png)
     </details>
 
