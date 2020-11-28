@@ -85,4 +85,5 @@ Crash data shows information about each traffic crash on city streets within the
 ## Summary
 
 Most of the accidents in Chicago are attributable to driver negligence, a broad category which encompasses things such as following too closely, failing to yield, improper turning, and many other traffic violations. The Chicago Traffic Management Authority (TMA) could potentially seek to reduce these occurrences by implementing harsher regulations for traffic violations. <br/>
-There is a noticeable spike in accidents during commuting hours, both in the morning and evening. A potential solution to this might be to stagger business start times, to alleviate congestion on the roads both in the mornings and evenings. For instance, the 8 hour work day could be shifted forward two hours for some businesses, starting at 11 and ending at 7, rather than the traditional 9-5. 
+ <br/>
+There is a noticeable spike in accidents during commuting hours, both in the morning and evening. A potential solution to this might be to stagger business start times, to alleviate congestion on the roads during the mornings and evenings. For instance, the 8 hour work day could be shifted forward two hours for some businesses, starting at 11 and ending at 7, rather than the traditional 9-5. 
