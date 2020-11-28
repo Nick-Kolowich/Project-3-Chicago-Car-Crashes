@@ -40,7 +40,7 @@ Crash data shows information about each traffic crash on city streets within the
    <li> Fog/Smoke/Haze is 1.90x more likely </li>
    </ul><br/>
     
-![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/weatherfatalvsnoinjury.png) 
+![image png](https://raw.githubusercontent.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/main/Images/weatherfatalvsnoinjury.png)
 
 </details>
 
