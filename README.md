@@ -44,7 +44,7 @@ Crash data shows information about each traffic crash on city streets within the
 
 </details>
 
-<h3> Question 2: How has Covid-19 impacted accident frequency in Chicago? </h3>
+<h3> Question 3: How has Covid-19 impacted accident frequency in Chicago? </h3>
 <details>
     
    <summary> Far fewer accidents have occurred after March 2020. </summary><br/>
