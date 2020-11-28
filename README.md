@@ -22,14 +22,12 @@ Crash data shows information about each traffic crash on city streets within the
 </details>
 
 ### Questions
+    
+<h3> Question 1: What time of day do crashes typically occur? </h3>
 <details>
-    <summary> Question 1: What time of day do crashes occur? </summary> 
-    Spikes in accidents are seen primarily during commuting hours. 
-![png](https://raw.githubusercontent.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/main/Images/crashhourdist.png)      
-    </details>
+    
+   <summary> Spikes in accidents are primarily seen during commuting hours. </summary>
+    
+![Alt text](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/crashhourdist.png) 
 
-### Which features correlate most highly with price? 
-<details>
-    <summary> Grade and Sq. Footage of a home are most closely correlated with price in the correlation matrix.  </summary>
-
-![png](https://github.com/Nick-Kolowich/dsc-phase-2-project-online/blob/master/images/fig2.png)
+</details>
