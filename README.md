@@ -1,6 +1,12 @@
 ![png](https://raw.githubusercontent.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/main/Images/coverphoto.png)
 
 ## Outline
+
+This project examines the causes of traffic accidents within the city limits of Chicago. Approximately 60,000 accidents occur each year in Chicago, many of which are due to driver negligence. The Chicago Traffic Management Authority (TMA) could use this analysis to potentially reduce the number of accidents that occur annually.  
+
+
+## Links
+
 [Purpose](README.md#Purpose) <br/>
 [Map of Accidents](README.md#Map-of-Accidents-in-Chicago-by-Cause) <br/>
 [Data Description](README.md#Data-Description) <br/>
