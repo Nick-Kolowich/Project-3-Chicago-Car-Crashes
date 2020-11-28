@@ -16,7 +16,14 @@ This project examines the causes of traffic accidents within the city limits of 
 To build a model that will predict accident causality based on factors such as weather, speed limit, and lighting conditions.
 
 ## Map of Accidents in Chicago by Cause
+<details>
+
+  <summary> Legend </summary>
+    
 ![imglegend](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/legend.png)
+
+</details>
+
 ![img](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/chicagomap.png)
 
 ## Data Description
