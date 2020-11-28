@@ -46,3 +46,30 @@ Crash data shows information about each traffic crash on city streets within the
 ![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/weatherfatalvsnoinjury.png) 
 
 </details>
+
+<h3> Question 2: How has Covid-19 impacted accident frequency in Chicago? </h3>
+<details>
+    
+   <summary> Far fewer accidents have occurred after March 2020. </summary><br/>
+   
+   <ul>
+   <li> 2018 </li>
+    <ul>
+    <li> 68,286 accidents</li>
+    </ul>
+   <li> 2019 </li>
+    <ul>
+        <li> 65,106 accidents </li>
+    </ul>
+   <li> 2020 </li>
+    <ul>
+        <li> 42,375 accidents </li>
+    </ul>
+   </ul><br/>
+   
+   The blue line denotes the stay-at-home orders issued by Governor Pritzker on March 20th. <br/>
+   
+![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/covid19traffic.png) 
+
+</details>
+
