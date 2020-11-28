@@ -28,6 +28,6 @@ Crash data shows information about each traffic crash on city streets within the
     
    <summary> Spikes in accidents are primarily seen during commuting hours. </summary>
     
-![Alt text](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/crashhourdist.png) 
+![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/hourofcrashdistpresentation.png) 
 
 </details>
