@@ -35,13 +35,13 @@ Crash data shows information about each traffic crash on city streets within the
 <h3> Question 2: Does inclement weather disproportionately cause fatal accidents? </h3>
 <details>
     
-   <summary> Weather conditions have little bearing on accident fatality. </summary>
+   <summary> Weather conditions have little bearing on accident fatality. </summary><br/>
    
    <ul>
    <li> Rain is 1.08x more likely to be present during a fatal crash. </li>
    <li> Snow is 0.55x as likely to be present </li>
    <li> Fog/Smoke/Haze is 1.90x more likely </li>
-   </ul>
+   </ul><br/>
     
 ![image png](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/weatherfatalvsnoinjury.png) 
 
