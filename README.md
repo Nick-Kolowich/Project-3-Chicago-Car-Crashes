@@ -1,11 +1,11 @@
 ![png](https://raw.githubusercontent.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/main/Images/coverphoto.png)
 
 ## Outline
-[Purpose](README.md#Purpose)
-[Map of Accidents](README.md#Map of Accidents in Chicago by Cause)
-[Data Description](README.md#Data Description)
-[Questions](README.md#Questions)
-[Summary](README.md#Summary)
+[Purpose](README.md#Purpose) <br/>
+[Map of Accidents](README.md#Map of Accidents in Chicago by Cause) <br/>
+[Data Description](README.md#Data Description) <br/>
+[Questions](README.md#Questions) <br/>
+[Summary](README.md#Summary) <br/>
 
 ## Purpose
 To build a model that will predict the causality of an accident based on factors such as weather, speed limit, and lighting conditions.
