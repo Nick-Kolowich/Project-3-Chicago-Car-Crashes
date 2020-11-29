@@ -6,7 +6,7 @@ This project examines the causes of traffic accidents within the city limits of 
 
 ## Links
 
-[Presentation](presentation.pdf)<br/>
+[Presentation](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Presentation/presentation.pdf)<br/>
 [Purpose](README.md#Purpose) <br/>
 [Data Description](README.md#Data-Description) <br/>
 [Map of Accidents](README.md#Map-of-Accidents-in-Chicago-by-Cause) <br/>
