@@ -8,13 +8,17 @@ This project examines the causes of traffic accidents within the city limits of 
 
 [Presentation](presentation.pdf)<br/>
 [Purpose](README.md#Purpose) <br/>
-[Map of Accidents](README.md#Map-of-Accidents-in-Chicago-by-Cause) <br/>
 [Data Description](README.md#Data-Description) <br/>
+[Map of Accidents](README.md#Map-of-Accidents-in-Chicago-by-Cause) <br/>
 [Questions](README.md#Questions) <br/>
 [Summary](README.md#Summary) <br/>
 
 ## Purpose
 To build a model that will predict accident causality based on factors such as weather, speed limit, and lighting conditions.
+
+## Data Description
+
+Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). The data contains information on 453,326 accidents occuring inside the Chicago City limits between 2015 and 2021. All crashes are recorded as per the format specified in the Traffic Crash Report, SR1050, of the Illinois Department of Transportation. <br/>
 
 ## Map of Accidents in Chicago by Cause
 <details>
@@ -26,10 +30,6 @@ To build a model that will predict accident causality based on factors such as w
 </details>
 
 ![img](https://github.com/Nick-Kolowich/Project-3-Chicago-Car-Crashes/blob/main/Images/chicagomap.png)
-
-## Data Description
-
-Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). The data contains information on 453,326 accidents occuring inside the Chicago City limits between 2015 and 2021. All crashes are recorded as per the format specified in the Traffic Crash Report, SR1050, of the Illinois Department of Transportation. <br/>
 
 ## Questions
     
